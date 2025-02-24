@@ -1,0 +1,1 @@
+This repository contains a TypeScript example demonstrating a common issue with null or undefined values and how to handle them using the nullish coalescing operator. The original code produces a compilation error due to TypeScript's strict null checks. The solution showcases the use of the nullish coalescing operator (??) to provide a default value and prevent the error.
